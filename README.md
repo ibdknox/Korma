@@ -1,4 +1,4 @@
 Korma
 =====
 
-Tasty SQL for Clojure
+Korma has moved to the wonderful Korma organization: https://github.com/korma/ follow the latest there!
